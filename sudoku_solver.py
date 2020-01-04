@@ -1,6 +1,10 @@
 import pygame
 import time
-
+"""
+SUDOKU SOLVER
+    Solves sudoku puzzles. Feel free to test other sudoku puzzles.
+    Press SPACEBAR to initiate the auto-solve process.
+"""
 __author__ = "Jon Cokisler"
 __copyright__ = "Copyright 2020, SudokuSolver by Jon Cokisler"
 __credits__ = ["Jon Cokisler"]
